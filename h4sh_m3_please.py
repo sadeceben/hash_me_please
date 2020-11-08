@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 import requests, re, hashlib
 
 class Flag:
